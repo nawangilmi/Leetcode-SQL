@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1292-immediate-food-delivery-ii](https://github.com/nawangilmi/Leetcode-SQL/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/nawangilmi/Leetcode-SQL/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
