@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/nawangilmi/Leetcode-SQL/tree/master/0596-classes-more-than-5-students) |
+| [0619-biggest-single-number](https://github.com/nawangilmi/Leetcode-SQL/tree/master/0619-biggest-single-number) |
 | [1292-immediate-food-delivery-ii](https://github.com/nawangilmi/Leetcode-SQL/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/nawangilmi/Leetcode-SQL/tree/master/1317-monthly-transactions-i) |
 | [1877-find-followers-count](https://github.com/nawangilmi/Leetcode-SQL/tree/master/1877-find-followers-count) |
